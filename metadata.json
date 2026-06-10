@@ -1,0 +1,6 @@
+{
+  "name": "Brownie's Memorial",
+  "description": "A beautiful, animated tribute and peaceful celestial meadow in loving memory of Brownie.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
